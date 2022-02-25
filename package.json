@@ -1,0 +1,15 @@
+{
+  "name": "backend_hideb",
+  "version": "1.0.0",
+  "description": "backend para cocinas ocultas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "nodejs"
+  ],
+  "author": "acris",
+  "license": "ISC"
+}
